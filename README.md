@@ -25,8 +25,22 @@ The Iris dataset contains 150 samples belonging to 3 species:
 🌸 Iris Species Overview
 
 <table>
-  <tr> <td align="center"> <b>Iris Setosa</b><br> <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_setosa_3.jpg" width="250"> </td> <td align="center"> <b>Iris Versicolor</b><br> <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" width="250"> </td> <td align="center"> <b>Iris Virginica</b><br> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" width="250"> </td> </tr> 
+  <tr>
+    <td align="center">
+      <b>Iris Setosa</b><br>
+      <img src="https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/images/iris_setosa.jpg" width="250">
+    </td>
+    <td align="center">
+      <b>Iris Versicolor</b><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" width="250">
+    </td>
+    <td align="center">
+      <b>Iris Virginica</b><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" width="250">
+    </td>
+  </tr>
 </table>
+
 
 🚀 Tech Stack
 
